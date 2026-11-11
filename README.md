@@ -1,4 +1,4 @@
-# GitSummarizer
+# GitSummarizer ( unrivaled-palmier-cf5399.netlify.app)
 
 GitSummarizer is a full-stack project for understanding unfamiliar GitHub repositories faster. It combines GitHub metadata, repository file inspection, language and framework detection, and AI-generated summaries to help developers quickly evaluate a codebase before they dive in.
 
